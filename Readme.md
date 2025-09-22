@@ -1,77 +1,70 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+# 💼 Portfólio Pessoal — Vitor Andrade
 
-:star: Star me on GitHub — it helps!
+Este é o meu portfólio pessoal desenvolvido em HTML, CSS, Bootstrap e JavaScript. Foi criado com o objetivo de apresentar o meu percurso académico, experiências, projetos e competências técnicas como estudante da ATEC no curso de Técnico Especialista em Tecnologias e Programação de Sistemas de Informação (TPSI).
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+---
 
-### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
+## 🌐 Visita Online
 
+🔗 [Visualizar Portfólio](https://vitordsandrade.github.io/ProjetoGIT-Portfolio/)  
+📄 [Currículo (PDF)](https://drive.google.com/file/d/1iHBNV2UkH5LkhAP-1hYRZ2Ez_BQ6g4S7/view?usp=sharing)
 
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
+---
 
+## 📁 Estrutura do Projeto
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+.
+├── assets/
+│ ├── css/ # Ficheiros de estilo (style.css)
+│ ├── img/ # Imagens do portfólio
+│ └── vendor/ # Bibliotecas externas (Bootstrap, AOS, etc.)
+├── index.html # Página principal
+└── README.md # Este ficheiro
 
+---
 
-:star: Star me on GitHub — it helps!
+## 🛠️ Tecnologias Utilizadas
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+- HTML5
+- CSS3
+- Bootstrap 4
+- JavaScript
+- Font Awesome & BoxIcons
+- AOS (Animate on Scroll)
+- Google Fonts
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+---
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+## 🚀 Funcionalidades
 
+- ✨ Layout responsivo com Bootstrap
+- 📖 Secção de Formação com destaque ao curso TPSI na ATEC
+- 🛠️ Listagem de competências (Linguagens, Frameworks, Ferramentas)
+- 💼 Experiência profissional e projetos académicos
+- 📂 Galeria de projetos com imagens e descrições
+- 📧 Contactos e links diretos para LinkedIn, GitHub e email
 
+---
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+## 📷 Screenshots
 
-## Contributing 💡
-#### Step 1
+<img src="assets/img/screenshot-home.png" width="800px" alt="Página inicial">
+<img src="assets/img/screenshot-projetos.png" width="800px" alt="Secção de projetos">
 
-- **Option 1**
-    - 🍴 Fork this repo!
+---
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+## 👨‍💻 Autor
 
+**Vitor Andrade**  
+📧 vitor.andrade.t0120706@edu.atec.pt  
+🌍 Leiria, Portugal  
+🔗 [GitHub](https://github.com/VitorDSAndrade) | [LinkedIn](https://www.linkedin.com/in/vitorandrade)
 
-#### Step 2
+---
 
-- **Build your code** 🔨🔨🔨
+## 📜 Licença
 
-#### Step 3
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Podes usar, modificar e distribuir livremente com os devidos créditos.
 
-- 🔃 Create a new pull request.
+---
 
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
