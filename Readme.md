@@ -56,7 +56,7 @@ Este é o meu portfólio pessoal desenvolvido em HTML, CSS, Bootstrap e JavaScri
 ## 👨‍💻 Autor
 
 **Vitor Andrade**  
-📧 vitor.andrade.t0120706@edu.atec.pt  
+📧 vitor@email.com  
 🌍 Leiria, Portugal  
 🔗 [GitHub](https://github.com/VitorDSAndrade) | [LinkedIn](https://www.linkedin.com/in/vitorandrade)
 
